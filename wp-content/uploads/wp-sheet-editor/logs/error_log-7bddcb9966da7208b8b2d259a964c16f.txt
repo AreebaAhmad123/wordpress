@@ -1,0 +1,238 @@
+2025-02-28 12:02:39.510998 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 12:18:45.740436 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 12:26:15.782105 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 12:26:23.207161 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 12:27:13.587068 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 12:41:41.592120 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 12:41:48.593744 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 12:42:00.485816 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 12:42:01.563046 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 12:47:28.814737 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 15:06:15.155771 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 15:51:09.075978 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 15:57:07.405591 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
+2025-02-28 16:39:33.579838 - Uncaught Error: Call to undefined function ConeBlogWidgets\Classes\wp_is_ssl() in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php:81
+Stack trace:
+#0 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(324): ConeBlogWidgets\Classes\ConeBlog_Social_Sharing->cb_social_icons('')
+#1 D:\xampp\htdocs\blog_website\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#2 D:\xampp\htdocs\blog_website\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(3080): do_action('wp_footer')
+#4 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\footer.php(33): wp_footer()
+#5 D:\xampp\htdocs\blog_website\wp-includes\template.php(810): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\blog_website\wp-includes\template.php(745): load_template('D:\\xampp\\htdocs...', true, Array)
+#7 D:\xampp\htdocs\blog_website\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#8 D:\xampp\htdocs\blog_website\wp-content\themes\bloghash\archive.php(45): get_footer()
+#9 D:\xampp\htdocs\blog_website\wp-includes\template-loader.php(106): include('D:\\xampp\\htdocs...')
+#10 D:\xampp\htdocs\blog_website\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#11 D:\xampp\htdocs\blog_website\index.php(17): require('D:\\xampp\\htdocs...')
+#12 {main}
+  thrown in D:\xampp\htdocs\blog_website\wp-content\plugins\coneblog-widgets\inc\cb-social.php on line 81
+
